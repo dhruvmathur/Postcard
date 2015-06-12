@@ -36,5 +36,6 @@ class ViewController: UIViewController {
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
     }
 
+    //Comment for fun
 }
 
